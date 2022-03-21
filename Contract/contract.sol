@@ -1,5 +1,5 @@
 pragma solidity ^0.5.5;
-
+# import smart contract template
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC721/ERC721Full.sol";
 
 contract PropertyRegistry is ERC721Full {
@@ -15,6 +15,7 @@ contract PropertyRegistry is ERC721Full {
 
     event Appraisal(uint256 tokenId, uint256 appraisalValue, string reportURI);
 
+# Details of the property 
     function registerProperty(
         address owner,
         string memory name,
