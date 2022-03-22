@@ -51,4 +51,13 @@ Further developments:
 . Crowfunding would be an evolved phase of this project. Instead of only creating a single NFT representing a specific property, allowing to break it down to multiple tokens would allow multiple ownership of a property, which could be beneficial for investors looking for property to hold reliable passive income.
 
 
+# Project Resources
+
+* [Remix - Solidity IDE](https://remix.ethereum.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Truffle Framework](https://truffleframework.com/)
+* [Ganache - One Click Blockchain](https://truffleframework.com/ganache)
+* [Open Zeppelin ](https://openzeppelin.org/)
+
+
 
